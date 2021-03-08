@@ -1,0 +1,19 @@
+<skillConfig>
+<skillList>
+<skill>
+<id>1000</id>
+<name attackType="远程">乾坤大挪移</name>
+<damage>50000</damage>
+</skill>
+<skill>
+<id>1001</id>
+<name attackType="近战">北斗七星阵</name>
+<damage>30000</damage>
+</skill>
+<skill>
+<id>1002</id>
+<name attackType="近战">九阴真经</name>
+<damage>70000</damage>
+</skill>
+</skillList>
+</skillConfig>

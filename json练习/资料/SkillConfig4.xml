@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SkillConfig>
+  <SkillList>
+    <Skill>
+      <id>1000</id>
+      <name attackType="远程攻击">乾坤大挪移</name>
+      <damage>50000</damage>
+    </Skill>
+    <Skill>
+      <id>1001</id>
+      <name attackType="近战">北斗七星阵</name>
+      <damage>70000</damage>
+    </Skill>
+    <Skill>
+      <id>1003</id>
+      <name attackType="近战">九阴真经</name>
+      <damage>90000</damage>
+    </Skill>
+  </SkillList>
+</SkillConfig>

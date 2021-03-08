@@ -1,0 +1,15 @@
+D:\C#项目\json练习\json练习\bin\Debug\netcoreapp3.1\json练习.exe
+D:\C#项目\json练习\json练习\bin\Debug\netcoreapp3.1\json练习.deps.json
+D:\C#项目\json练习\json练习\bin\Debug\netcoreapp3.1\json练习.runtimeconfig.json
+D:\C#项目\json练习\json练习\bin\Debug\netcoreapp3.1\json练习.runtimeconfig.dev.json
+D:\C#项目\json练习\json练习\bin\Debug\netcoreapp3.1\json练习.dll
+D:\C#项目\json练习\json练习\bin\Debug\netcoreapp3.1\json练习.pdb
+D:\C#项目\json练习\json练习\bin\Debug\netcoreapp3.1\LitJson.dll
+D:\C#项目\json练习\json练习\obj\Debug\netcoreapp3.1\json练习.csprojAssemblyReference.cache
+D:\C#项目\json练习\json练习\obj\Debug\netcoreapp3.1\json练习.AssemblyInfoInputs.cache
+D:\C#项目\json练习\json练习\obj\Debug\netcoreapp3.1\json练习.AssemblyInfo.cs
+D:\C#项目\json练习\json练习\obj\Debug\netcoreapp3.1\json练习.csproj.CoreCompileInputs.cache
+D:\C#项目\json练习\json练习\obj\Debug\netcoreapp3.1\json练习.csproj.CopyComplete
+D:\C#项目\json练习\json练习\obj\Debug\netcoreapp3.1\json练习.dll
+D:\C#项目\json练习\json练习\obj\Debug\netcoreapp3.1\json练习.pdb
+D:\C#项目\json练习\json练习\obj\Debug\netcoreapp3.1\json练习.genruntimeconfig.cache
