@@ -1,0 +1,15 @@
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\bin\Debug\netcoreapp3.1\Myprop.exe
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\obj\Debug\netcoreapp3.1\Myprop.csprojAssemblyReference.cache
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\obj\Debug\netcoreapp3.1\Myprop.AssemblyInfoInputs.cache
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\obj\Debug\netcoreapp3.1\Myprop.AssemblyInfo.cs
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\obj\Debug\netcoreapp3.1\Myprop.csproj.CoreCompileInputs.cache
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\bin\Debug\netcoreapp3.1\Myprop.deps.json
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\bin\Debug\netcoreapp3.1\Myprop.runtimeconfig.json
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\bin\Debug\netcoreapp3.1\Myprop.runtimeconfig.dev.json
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\bin\Debug\netcoreapp3.1\Myprop.dll
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\bin\Debug\netcoreapp3.1\Myprop.pdb
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\obj\Debug\netcoreapp3.1\Myprop.csproj.CopyComplete
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\obj\Debug\netcoreapp3.1\Myprop.dll
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\obj\Debug\netcoreapp3.1\Myprop.pdb
+D:\C#项目\C#learning\序列化反序列化\Myprop\Myprop\obj\Debug\netcoreapp3.1\Myprop.genruntimeconfig.cache

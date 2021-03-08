@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Myprop/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.3.5"
+        },
+        "runtime": {
+          "Myprop.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.5.3.5": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.3.5"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Myprop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.5.3.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xCmbEm0A+Tr94MrOHJoSJE5WRGcKOYjGMyXqHkSAbtUvfmSknUSk9tF/wXwP4QZ5L9KVP8UdBazoRxfSFCAWUA==",
+      "path": "awssdk.core/3.5.3.5",
+      "hashPath": "awssdk.core.3.5.3.5.nupkg.sha512"
+    }
+  }
+}
